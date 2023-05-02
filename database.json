@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "date": "2023-04-17",
+      "name": "redza maulana fajar",
+      "age": "21",
+      "poli": "Poli Anak",
+      "id": 1
+    },
+    {
+      "date": "2023-04-17",
+      "name": "Angel karamoy",
+      "age": "20",
+      "poli": "Poli Umum",
+      "id": 2
+    }
+  ],
+  "polies": [
+    {
+      "id": 1,
+      "name": "Poli Umum"
+    },
+    {
+      "id": 2,
+      "name": "Poli Gigi"
+    },
+    {
+      "id": 3,
+      "name": "Poli Anak"
+    }
+  ]
+}
